@@ -931,11 +931,11 @@ starwars.css
 /* Emo Vader */
 #kylo .body {
   position: absolute;
-  width: 80px;
-  height: 150px;
+  width: 60px;
+  height: 130px;
   background: #4d4d4d;
   top: 130px;
-  left: 50%;
+  left: 70%;
   transform: translateX(-50%);
   border-radius: 40px 40px 0 0;
   overflow: hidden;
@@ -943,7 +943,7 @@ starwars.css
 #kylo .hood {
   position: absolute;
   background: #191919;
-  top: 45px;
+  top: 50px;
   left: 50%;
   transform: translateX(-50%);
   width: 70px;
@@ -953,7 +953,7 @@ starwars.css
 #kylo .hood:before {
   content: "";
   position: absolute;
-  width: 80px;
+  width: 100px;
   height: 50px;
   border-radius: 50%;
   background: #191919;
@@ -994,8 +994,8 @@ starwars.css
 }
 #kylo .cloak {
   position: absolute;
-  width: 120px;
-  height: 150px;
+  width: 150px;
+  height: 75px;
   background: #343434;
   top: 130px;
   left: 50%;
